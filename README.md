@@ -1,5 +1,8 @@
 # jQuery plugin: cron
 
+**Note Our version has an extra option to only show certain periods for selection  
+`periods: ['day', 'week', 'month', 'year']` 
+
 jquery-cron is a [jQuery] plugin for 
 presenting a simplified interface for users to specify cron entries.
 
